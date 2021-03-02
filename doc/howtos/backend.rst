@@ -121,7 +121,7 @@ or XML. The usage of most of those files will be explained along this tutorial.
         #. Adapt the manifest file to your module.
         #. Don't bother about the other files.
 
-        .. patch::
+        .. patch:: 
 
 Object-Relational Mapping
 -------------------------
